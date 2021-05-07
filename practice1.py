@@ -66,7 +66,7 @@ else: # Condition-3
 
 """
 Here comes a challenge:
-1. Rewrite the following code snippet in just 1 line 😱: (Hint: You can declare the variable in another line)
+1. Rewrite the following code snippet in just 1 line 😱: (Hint: You can declare the variables in another line)
     x = 4
     y = 4.00
     
