@@ -61,4 +61,30 @@ elif marks > 100: # Condition-2
 else: # Condition-3
     print(False)
 
+
+##########################################################################################
+
+"""
+Here comes a challenge:
+1. Rewrite the following code snippet in just 1 line 😱: (Hint: You can declare the variable in another line)
+    x = 4
+    y = 4.00
+    
+    if x == y:
+        print("The value of x and y is equal.")
+
+    else:
+        print("The value of x and y is not equal.")
+
+"""
+
+# Challenge Solution.
+x, y = 4, 4.00
+# print(x) # Just to check if the values of the variable are defined properly
+
+print("The value of x and y is equal") if x == y else print("The value of x and y is equal")
+# This is the syntax for writing he if-else conditional statements in 1 line.
+
+
+
 # 😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀 #
