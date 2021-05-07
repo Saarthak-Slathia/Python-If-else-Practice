@@ -15,6 +15,22 @@ These are some practice questions regarding if-else statements in Python with Qu
             else, print False. 
     '''
     
+        ##########################################################################################
+
+        """
+        Here comes a challenge:
+        1. Rewrite the following code snippet in just 1 line 😱: (Hint: You can declare the variable in another line)
+            x = 4
+            y = 4.00
+
+            if x == y:
+                print("The value of x and y is equal.")
+
+            else:
+                print("The value of x and y is not equal.")
+
+        """
+        
 #
 These are the practice questions. The solutions to these practice questions and challenge are available here ⬇ 
 #
