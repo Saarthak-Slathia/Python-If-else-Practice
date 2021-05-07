@@ -1,5 +1,5 @@
 # Python If-else Practice Questions
-These are some practice questions regarding if-else statements in Python with Questions and their Solutions.
+These are some practice questions regarding if-else statements in Python with Questions and their Solutions with a challenge question too !
 #
     '''
     Problems:
@@ -16,6 +16,6 @@ These are some practice questions regarding if-else statements in Python with Qu
     '''
     
 #
-These are the practice questions. The solutions to these practice questions are available here ⬇ 
+These are the practice questions. The solutions to these practice questions and challenge are available here ⬇ 
 #
 https://github.com/Saarthak-Slathia/Python-If-else-Practice/blob/main/practice1.py. 
